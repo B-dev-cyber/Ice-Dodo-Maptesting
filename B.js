@@ -1,7 +1,7 @@
 var map = {
     title: "B",
     song: "env2",
-    maker: "D王 [ML]",
+    maker: "D王[ML]",
     spawn: [0, 0.5, 0],
     init: function() {
         a.p([0.1, -2.67, -4.78], [0, -1.57, 0], [2.92, 1.56, 2.74], "dbdbdb", 0, 0, 0.6, false, true, false, false);
